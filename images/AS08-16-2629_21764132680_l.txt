@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2015   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Apollo Image Gallery
+Photo URL    : https://www.flickr.com/photos/projectapolloarchive/21764132680/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 4 19:45:26 GMT+0100 2015
+Upload Date  : Mon Oct 5 00:47:58 GMT+0100 2015
+Views        : 101,847
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+AS08-16-2629
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Apollo 8 Hasselblad image from film magazine 16/A - Trans-Lunar Coast, Lunar Orbit
+
+
++--------+
+|  TAGS  |
++--------+
+"NASA Photo" "Space History" 

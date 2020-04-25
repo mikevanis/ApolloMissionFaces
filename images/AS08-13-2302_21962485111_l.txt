@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2015   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Apollo Image Gallery
+Photo URL    : https://www.flickr.com/photos/projectapolloarchive/21962485111/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 4 20:10:22 GMT+0100 2015
+Upload Date  : Mon Oct 5 01:11:09 GMT+0100 2015
+Views        : 197,673
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+AS08-13-2302
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Apollo 8 Hasselblad image from film magazine 13/E - Lunar Orbit, Trans-Earth Coast
+
+
++--------+
+|  TAGS  |
++--------+
+"NASA Photo" "Space History" 

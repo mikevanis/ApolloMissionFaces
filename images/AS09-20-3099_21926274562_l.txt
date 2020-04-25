@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2015   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Apollo Image Gallery
+Photo URL    : https://www.flickr.com/photos/projectapolloarchive/21926274562/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 4 09:03:28 GMT+0100 2015
+Upload Date  : Sun Oct 4 14:03:48 GMT+0100 2015
+Views        : 108,640
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+AS09-20-3099
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Apollo 9 Hasselblad image from film magazine 20/E - Earth orbit, EVA
+
+
++--------+
+|  TAGS  |
++--------+
+"NASA Photo" "Space History" 

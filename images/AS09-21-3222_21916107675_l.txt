@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2015   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Apollo Image Gallery
+Photo URL    : https://www.flickr.com/photos/projectapolloarchive/21916107675/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 3 13:11:15 GMT+0100 2015
+Upload Date  : Sat Oct 3 18:11:30 GMT+0100 2015
+Views        : 61,808
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+AS09-21-3222
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Apollo 9 Hasselblad image from film magazine 21/B - Earth orbit, LM test flight
+
+
++--------+
+|  TAGS  |
++--------+
+"NASA Photo" "Space History" 

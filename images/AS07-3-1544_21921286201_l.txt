@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2015   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Apollo Image Gallery
+Photo URL    : https://www.flickr.com/photos/projectapolloarchive/21921286201/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 3 09:25:53 GMT+0100 2015
+Upload Date  : Sat Oct 3 14:28:04 GMT+0100 2015
+Views        : 151,165
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+AS07-3-1544
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Apollo 7 Hasselblad image from film magazine 3/M - Earth Orbit
+
+
++--------+
+|  TAGS  |
++--------+
+"NASA Photo" "Space History" 

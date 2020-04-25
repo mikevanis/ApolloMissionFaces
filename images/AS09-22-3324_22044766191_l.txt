@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2015   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Apollo Image Gallery
+Photo URL    : https://www.flickr.com/photos/projectapolloarchive/22044766191/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 8 07:48:34 GMT+0100 2015
+Upload Date  : Thu Oct 8 12:51:15 GMT+0100 2015
+Views        : 9,503
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+AS09-22-3324
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Apollo 9 Hasselblad image from film magazine 22/C - Earth orbit
+
+
++--------+
+|  TAGS  |
++--------+
+"NASA Photo" "Space History" 
